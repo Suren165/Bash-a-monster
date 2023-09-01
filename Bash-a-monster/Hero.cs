@@ -4,7 +4,8 @@ public class Hero
 {
 public int HP;
 
-public float Weigh;
+public float Weigh; 
 
 public float Height;
+public int damage;
 }
